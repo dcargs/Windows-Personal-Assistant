@@ -1,0 +1,36 @@
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Windows Personal Assistant.exe.config
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Windows Personal Assistant.exe
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Windows Personal Assistant.pdb
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant.csprojResolveAssemblyReference.cache
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\MainWindow.g.cs
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\App.g.cs
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant_MarkupCompile.cache
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant_MarkupCompile.lref
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\MainWindow.baml
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant.g.resources
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows_Personal_Assistant.Properties.Resources.resources
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant.csproj.GenerateResource.Cache
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant.csproj.CoreCompileInputs.cache
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant.exe
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\obj\Debug\Windows Personal Assistant.pdb
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\System.Net.Http.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.pdb
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.xml
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Auth.xml
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Core.pdb
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Core.xml
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Auth.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.Core.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.dll
+C:\Users\dcargill\Desktop\OneDrive\4400 Final Project\Windows Personal Assistant\Windows Personal Assistant\Windows Personal Assistant\bin\Debug\Google.Apis.PlatformServices.dll
